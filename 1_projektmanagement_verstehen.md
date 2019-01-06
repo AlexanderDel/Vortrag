@@ -7,11 +7,12 @@ class: middle, center
 - Was ist ein Projekt?
 - IT-Projekt
 - Wozu Projektmanagement bzw. was ist es?
+- Projekt- und Produktlebenszyklus
+- Projektqualität- und Erfolg
 - Projektziele
 - Das magische Zieldreieck
 - Meilensteine
 - Projektphasen
-- Projektqualität- und Erfolg
 - Übersicht behalten
 - Schnittstellen  
 ---
@@ -51,19 +52,43 @@ class: middle, center
   - Eindeutige Ziele definieren (Meilensteine, Projektziele)
   - Ressourcenplanung (Was wird benötigt? Kosten?)
   - Kostenplanung
-  - Risiken einschätzen
+  - Risiken einschätzen (Alternativen finden)
   - Ziele mit Termine festlegen und die auch einhalten
   - Stakeholder
-  - Richtige Team Konstellation erstellen
+  - Teamkonstellation
   - Projektergebnisse und Laufzeit evaluieren
   - Projektziel mit Gewinn abschließen
+
+---
+
+#Projekt- und Produktlebenszyklus
+
+.center[![Center-aligned image](https://raw.githubusercontent.com/ProjektManagementGruppe3/Ausarbeitung/master/include/justin/zyklus.PNG
+)]
+
+---
+
+# Projektqualität- und Erfolg
+- Erfolg wird vom Kunden zum Teil subjektiv gemessen
+ - Entspricht es den Anforderungen?
+ - Wurden die Kosten eingehalten?
+- Gleiches gilt für Qualität
+
+<img src="https://raw.githubusercontent.com/ProjektManagementGruppe3/Ausarbeitung/master/include/justin/projekt_erfolg_qualitaet.PNG" width="50%" style="float:left; margin: 10px;">
+
+---
+
+# Projektqualität- und Erfolg
+## Modelle zur Objektiven Messung von Erfolg
+
+<img src="https://raw.githubusercontent.com/ProjektManagementGruppe3/Ausarbeitung/master/include/justin/konzept_messen.PNG" width="55%" style="float:left; margin: 10px;">
 
 ---
 
 # Projektziele
 
 - Stellt einen Projektzustand dar
-- Zur Startphase hin werden Ziele zunächst Grob definiert
+- Zur Startphase hin werden Ziele zunächst grob definiert
 - Im Verlaufe des Projektes können dann die Ziele ausführlicher definiert werden
 - Bei Zieldefinition sollte man sich an die *Smart* Regel halten
   - S = spezifisch
@@ -71,6 +96,10 @@ class: middle, center
   - A = achievable (erreichbar)
   - R = realistisch
   - T = terminiert
+- Ziele haben außerdem noch folgende Funktionen:
+    - Koordinationsfunktion
+    - Auswahlfunktion
+    - Kontrollfunktion
 
 ---
 
@@ -131,23 +160,6 @@ class: middle, center
 ## Allgemeine Phasen 
 
 <img src="https://raw.githubusercontent.com/ProjektManagementGruppe3/Ausarbeitung/master/include/justin/phasen.PNG" width="70%" style="float:left; margin: 10px;">
-
----
-
-# Projektqualität- und Erfolg
-- Erfolg wird vom Kunden zum Teil subjektiv gemessen
- - Entspricht es den Anforderungen?
- - Wurden die Kosten eingehalten?
-- Gleiches gilt für Qualität
-
-<img src="https://raw.githubusercontent.com/ProjektManagementGruppe3/Ausarbeitung/master/include/justin/projekt_erfolg_qualitaet.PNG" width="50%" style="float:left; margin: 10px;">
-
----
-
-# Projektqualität- und Erfolg
-## Modelle zur Objektiven Messung von Erfolg
-
-<img src="https://raw.githubusercontent.com/ProjektManagementGruppe3/Ausarbeitung/master/include/justin/konzept_messen.PNG" width="55%" style="float:left; margin: 10px;">
 
 ---
 
