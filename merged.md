@@ -2509,32 +2509,46 @@ count:false
 
 Lessons Learnt und Verbesserungsmaßnahmen wurden bereits im täglichen Debriefing ausgetauscht.
 
----  
-
-﻿class: middle, center
-# Microsoft Project
 ---
 
-.center[![left-aligned image](https://raw.githubusercontent.com/AlexanderDel/Presentation/master/include/MS%20Project%20Ansicht%20left.jpg)]
+﻿# Microsoft Project
 
 ---
+class:middle,center
 
-.center[![Center-aligned image](https://raw.githubusercontent.com/AlexanderDel/Presentation/master/include/MS%20Project%20Ansicht%20right.jpg)]
+<img src="https://raw.githubusercontent.com/AlexanderDel/Presentation/master/include/MS%20Project.png" width="750px" >
 
 ---
 
-.center[![Center-aligned image](https://raw.githubusercontent.com/AlexanderDel/Presentation/master/include/MS%20Project%20new%20column.jpg)]
+- Milestones
+
+--
+count:false
+- Benutzerkontrollierte Terminplanung
+
+--
+count:false
+- Zeitleiste
+
+--
+count:false
+- Team planner view: zeigt Ressourcen und Überstunden um Probleme zu finden
+
+--
+count:false
+- Berichte: inkl. grafische Möglichkeiten
+
+--
+count:false
+- Ressource Management
+
+--
+count:false
+- Rückwärtskompatibilität mit älteren MS Project Versionen
+
+--
+count:false
+- “Earned Value Analytics”
 
 ---
 
-.center[![Center-aligned image](https://raw.githubusercontent.com/AlexanderDel/Presentation/master/include/MS%20Project%20neue%20Spalten.jpg)]
-
----
-
-.center[![Center-aligned image](https://raw.githubusercontent.com/AlexanderDel/Presentation/master/include/MS%20Project%20Filtern%20Gruppierung.JPG)]
-
----
-
-.center[![Center-aligned image](https://raw.githubusercontent.com/AlexanderDel/Presentation/master/include/MS%20Project%20Filtern%20Gruppierung%20Gantt.JPG)]
-
----  

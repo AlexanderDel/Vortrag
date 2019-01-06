@@ -138,4 +138,4 @@ count:false
 
 Lessons Learnt und Verbesserungsmaßnahmen wurden bereits im täglichen Debriefing ausgetauscht.
 
----  
+---
