@@ -165,7 +165,7 @@ Identifizierung mit Hilfe:
 - Gesprächen z.B. mit Auftraggebern oder Nutzern
 - Betrachtungen von früheren Projekten
 
-**Gesrpäche sind unvermeidlich, denn:**
+**Gespräche sind unvermeidlich, denn:**
 
 --
 count: false
