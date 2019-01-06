@@ -3,7 +3,6 @@ class: middle, center
 ---
 template: präsi
 
-## Kapitel 3
 # Projekte Planen
 
 ---
@@ -739,4 +738,3 @@ fünf Schritte:
 </figure>
 
 ---
-

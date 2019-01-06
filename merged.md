@@ -1571,9 +1571,7 @@ fünf Schritte:
 
 ---
 
-
-﻿class: middle, center
-# Projekte auf Kurs halten
+﻿# Projekte auf Kurs halten
 
 ---
 ## Inhalt
