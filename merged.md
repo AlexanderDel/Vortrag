@@ -834,7 +834,6 @@ Nachdem die Architektur ausgearbeitet wurde, konzentriert sich diese Phase auf d
 
 template: präsi
 
-## Kapitel 3
 # Projekte Planen
 
 ---
