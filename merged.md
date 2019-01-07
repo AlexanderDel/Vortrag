@@ -16,13 +16,11 @@ Moritz Withöft
 
 - Projektmanagement verstehen
 - Projekte definieren
-- Vorgehensmodelle
 - Projekte planen
 - Projekte auf Kurs halten
 - Projekte abschließen
-- Prozessmodelle
+- Vorgehensmodelle
 - Tools - Microsoft Project
-- Tools - GitHub Projects
 - Tools - Jira
 
 ---
@@ -652,196 +650,6 @@ count: false
 > Grundsätzliches Ziel sollte es sein, das Team positiv zu entwickeln. Dass dieses Thema während des Trips durchweg im Fokus steht, ist Aufgabe eines dazu benannten Teammitglieds.
 
 Kann Projektleitung sein, muss aber nicht!
-
----
-
-
-class:middle,center
-# Vorgehensmodelle
----
-count:false
-## Vorgehensmodelle
-
-- Definition und Charakterisierung
-- Klassische Vorgehensmodelle
-  - Wasserfallmodell
-  - Sprialmodell
-- Moderne Vorgehensmodelle
-  - V-Modell
-  - Rational-Unified-Process-Modell
-- Agile Vorgehensmodelle
-  - Extreme Programming (XP)
-  - Scrum
-
----
-
-## Klassische Vorgehensmodelle
-### Wasserfallmodell
-Weit verbreitet in Varianten in vielen Modellen!
-* Mehrere hintereinander liegende abgeschlossene Phasen
-* Jede Aktivität ist in der richtigen Reihenfolge und in der vollen Breite vollständig durchzuführen
-* Am Ende jeder Aktivität steht ein fertig gestelltes Dokument
-* Sequentieller Entwicklungsablauf
-* Top-down-Vorgehen
----
-<figure>
-    <img style="width:100%;height:auto;" src="https://raw.githubusercontent.com/ProjektManagementGruppe3/Ausarbeitung/master/include/daniel/wasserfallmodell2.PNG"  />
-    <figcaption>
-        Abbildung 1: Wasserfallmodell zur Softwareentwicklung nach Aichele
-    </figcaption>
-</figure>
-
----
-## Klassische Vorgehensmodelle
-### Spiralmodell
-* Jede Spirale ist einen iterativer, evolutionärer Zyklus mit denselben Phasen
-* Für jedes Teilprodukt und für jede Verfeinerung sind 4 Schritte zu durchlaufen
-* Nutzt dedizierte Prozessmodelle für Teilphasen
-* Ziele eines Zyklus sowie Risikobewertung werden aus Ergebnissen des letzten Zyklus abgeleitet
----
-<figure>
-    <img style="width:100%;height:auto;" src="https://raw.githubusercontent.com/ProjektManagementGruppe3/Ausarbeitung/master/include/daniel/spiralmodell.PNG"  />
-    <figcaption>
-        Abbildung 2: Spiralmodell zur Softwareentwicklung nach Aichele
-    </figcaption>
-</figure>
-
----
-
-### Vor- und Nachteile der klassischen Vorgehensmodelle
-
-**Vorteile**
-* Einfache und klare Vorgehensweise.
-* Gute Komplexitätsbeherrschung und damit auch für große Projekte geeignet.
-* Hohe Effizienz bei bekannten und konstanten Anforderungen.
-* Erhöhte Transparenz.
-
-**Nachteile**
-* Planungs- und Entwicklungsfehler können erst spät erkannt werden.
-* Risiken sammeln sich am Ende des Prozesses („Big Bang“).
-* Durch den starren Ablauf sind Änderungen an den Projektanforderungen oftmals nicht mehr möglich oder nur schwer zu bewerkstelligen und mit hohen Kosten verbunden.
-
-
-
----
-## Moderne Vorgehensmodelle
-### V-Modell
-* Erweiterung des Wasserfall-Modells um den Bereich der Qualitätssicherung
-* Verifikation und Validation der zu entwickelnden Software werden Bestandteile des Modells
-* Verifikation:
-  * Überprüfung der Übereinstimmung zwischen Software-Produkt und seiner Spezifikation
-  * „Are we building the product right?“
-* Validation:
-  * Eignung eines Produkts bezogen auf seinen Einsatzzweck
-  * „Are we building the right product?“
-* Submodelle für
-* Systemerstellung (SE)
-* Qualitätssicherung (QS) 
-
-
-
----
-<figure>
-    <img style="width:100%;height:auto;" src="https://raw.githubusercontent.com/ProjektManagementGruppe3/Ausarbeitung/master/include/daniel/v-modell.PNG"  />
-    <figcaption>
-        Abbildung 3: V-Modell zur Softwareentwicklung nach Aichele
-    </figcaption>
-</figure>
-
-???
-
-
----
-## Moderne Vorgehensmodelle
-### Rational-Unified-Process-Modell
-* für objektorientierte und modellbasierte SW-Entwicklung, eng mit UML verbunden
-* ganzer Baukasten oder Framework von Methoden und Prozessen
-* flexibel und anpassbar, aber schwer erlernbar
-
----
-* Vorbereitung (Projektsetup/Konzeption)
-Diese erste Konzeptionsphase hat das Ziel einer gemeinsamen Vision, eines klaren Zieles sowie der Erstellung eines rudimentären Anwendungsfallmodells, welches die wesentliche Funktionalität beschreibt sowie einer tentativen/provisorischen Architektur. Darüber hinaus werden die wesentlichsten Risiken identifiziert und die Ausarbeitungsphase geplant.
-
-* Ausarbeitung (Entwurf)
-In dieser Phase wird ein Architekturprototyp sowie eine grobe Beschreibung der Anwendungsfälle ausgearbeitet. Planung der Konstruktionsphase, Machbarkeitstests, Systemevaluierung und erste Programmteile von Schlüsselkomponenten sind Teil der Elaborationsphase.
-
-* Konstruktion (Implementierung)
-Nachdem die Architektur ausgearbeitet wurde, konzentriert sich diese Phase auf die Entwicklung und das Testen des Produktes. In dieser Phase werden sämtliche Anforderungen unter laufender Abstimmung mit dem Kunden realisiert.
-
-* Übergang (Inbetriebnahme)
-Übergabephase und Freigabe der Software an den Kunden.
-
----
-<figure>
-    <img style="width:100%;height:auto;" src="https://raw.githubusercontent.com/ProjektManagementGruppe3/Ausarbeitung/master/include/daniel/rup-modell.PNG"  />
-    <figcaption>
-        Abbildung 4: Rational-Unified-Process-Modell zur Softwareentwicklung nach Aichele
-    </figcaption>
-</figure>
-
----
-## Moderne Vorgehensmodelle
-### Vor- und Nachteile moderner Vorgehensmodelle:
-
-**Vorteile**
-* Projektrisiken können früh erkannt werden.
-* Volatile Anforderungen können besser berücksichtigt werden.
-* Hohe Effizienz bei bekannten und konstanten Anforderungen.
-* Erhöhte Transparenz
-
-**Nachteile**
-* Aufwand für alle Projektbeteiligten ist sehr hoch.
-* Komplexes Projektmanagement, da eine Anpassung an das jeweilige Projekt notwendig ist.
-* Ergebnisse sind schwer messbar, da keine Qualitätssicherung im Modell vorgesehen ist.
-
----
-## Agile Vorgehensmodelle
-
-
----
-## Agile Vorgehensmodelle
-### Extreme Programming (XP)
-<figure>
-    <img style="width:100%;height:auto;" src="https://raw.githubusercontent.com/ProjektManagementGruppe3/Ausarbeitung/master/include/daniel/xp.PNG"  />
-    <figcaption>
-        Abbildung 5: Extreme Programming zur Softwareentwicklung nach Aichele
-    </figcaption>
-</figure>
-
----
-## Agile Vorgehensmodelle
-### Scrum
-
----
-**Scrum Artefakte**
-* Product Backlog 
-  * Anforderungen an die Software
-  * Wird durch den Product Owner erstellt und gepflegt
-* Sprint Backlog
-  * Wird durch das Projektteam erstellt und spiegelt durch eine Auswahl der Inhalte des Product Backlog die Zielvorgaben für einen Sprint wieder
-  * Während eines Sprints wird das Sprint Backlog nicht um neue Einträge erweitert
-* Release
-  * Jeder Sprint schließt mit einem lieferfähigen Release ab, welches in der Regel durch den Kunden geprüft wird.
-
----
-<figure>
-    <img style="width:100%;height:auto;" src="https://raw.githubusercontent.com/ProjektManagementGruppe3/Ausarbeitung/master/include/daniel/scrum.PNG"  />
-    <figcaption>
-        Abbildung 6: Scrum zur Softwareentwicklung nach Aichele
-    </figcaption>
-</figure>
----
-### Vor- und Nachteile agiler Vorgehensmodelle:
-
-**Vorteile**
-* Gute Einsetzbarkeit bei unklaren Zielen und sich ändernden Anforderungen.
-* Hohe Flexibilität und verringerte Komplexität der Projektverwaltung.
-* Erhöhte Transparenz auf den Projektstand und mögliche Risiken.
-
-**Nachteile**
-* Eigenverantwortlichkeit des Projektteams kann zu Schwierigkeiten führen.
-* Erhöhter Kommunikations- und Abstimmungsaufwand.
-* Häufig fehlende Dokumentation der Ergebnisse.
 
 ---
 
@@ -2521,6 +2329,283 @@ count:false
 ##  
 
 Lessons Learnt und Verbesserungsmaßnahmen wurden bereits im täglichen Debriefing ausgetauscht.
+
+---
+
+class:middle,center
+# Vorgehensmodelle
+---
+
+## Vorgehensmodelle
+
+- Allgemein
+- Klassische Vorgehensmodelle
+  - Wasserfallmodell
+  - Sprialmodell
+- Moderne Vorgehensmodelle
+  - V-Modell
+  - Rational-Unified-Process-Modell
+- Agile Vorgehensmodelle
+  - Extreme Programming (XP)
+  - Scrum
+
+---
+## Allgemein
+* Ziel: Software unter Berücksichtigung von Kosteneinhaltung, Termineinhaltung und Qualitätserfüllung
+* Grundlage für Planung, Überwachung und Steuerung
+
+* Vorgehensmodelle legen fest:
+  * durchzuführende Aktivitäten
+  * Reihenfolge des Arbeitsablaufs (Phasen)
+  * Definition der Teilprodukte / Ergebnisse
+  * Fertigstellungskriterien
+  * Verantwortlichkeiten und Kompetenzen
+  * Notwendige Mitarbeiterqualifikationen
+  * Anzuwendende Standards, Richtlinien, Methoden und Werkzeuge
+
+---
+
+## Klassische Vorgehensmodelle
+
+* Top-down-Vorgehen
+* streng sequenziell
+* Phasen strikt voneinander getrennt
+* Phasenübergang nach Abschluss
+* Nach erfolgreicher Beendigung einer Phase: Dokumente / Fortschrittsberichte
+  * Grundlage für nächste Phase
+* Rücksprünge in vorherige Phasen nur an definierten Zeitpunkten / Projektabschnitten 
+
+
+---
+
+## Klassische Vorgehensmodelle
+### Wasserfallmodell
+
+* Mehrere hintereinander liegende abgeschlossene Phasen
+* Jede Aktivität ist in der richtigen Reihenfolge und vollständig durchzuführen
+* Am Ende jeder Aktivität steht ein fertig gestelltes Dokument
+* Sequentieller Entwicklungsablauf
+
+---
+
+### Wasserfallmodell
+<figure>
+    <img style="width:100%;height:auto;" src="https://raw.githubusercontent.com/ProjektManagementGruppe3/Ausarbeitung/master/include/daniel/wasserfallmodell2.PNG"  />
+    <figcaption>
+        Wasserfallmodell zur Softwareentwicklung nach Aichele
+    </figcaption>
+</figure>
+
+---
+
+### Wasserfallmodell
+
+* minimiert Mehraufwand bei der Planung
+* keine Software bis zum Ende des Lebenszyklus vor
+* mangelnde Flexibilität
+  * zu Beginn Anforderungen vollständig spezifiziert
+    * Rücksichtnahme auf spät erkannte Risiken schwer
+
+---
+## Klassische Vorgehensmodelle
+### Spiralmodell
+
+* risikoorientiertes Vorgehensmodell, das ein Projekt in Miniprojekte aufteilt
+* Nachdem alle Hauptrisiken behandelt wurden, endet das Spiralmodell wie das Wasserfallmodell
+* Jedes Miniprojekt beschäftigt sich mit großen Risiken
+  * Ein Risiko ist dabei grob definiert
+
+---
+<figure>
+    <img style="width:100%;height:auto;" src="https://raw.githubusercontent.com/ProjektManagementGruppe3/Ausarbeitung/master/include/daniel/spiralmodell.PNG"  />
+    <figcaption>
+        Spiralmodell zur Softwareentwicklung nach Aichele
+    </figcaption>
+</figure>
+
+---
+
+### Vor- und Nachteile der klassischen Vorgehensmodelle
+
+**Vorteile**
+* Einfache und klare Vorgehensweise
+* Gute Komplexitätsbeherrschung und damit auch für große Projekte geeignet
+* Hohe Effizienz bei bekannten und konstanten Anforderungen
+* Erhöhte Transparenz
+
+**Nachteile**
+* Planungs- und Entwicklungsfehler können erst spät erkannt werden
+* Risiken sammeln sich am Ende des Prozesses („Big Bang“)
+* Durch starren Ablauf sind Änderungen an den Anforderungen oft nicht mehr möglich oder mit hohen Kosten verbunden
+
+
+
+---
+
+## Moderne Vorgehensmodelle
+* höhere Flexibilität
+* bessere Transparenz der Projekte und Ergebnisse
+* Einbindung des Endnutzers in Projektverlauf
+
+---
+
+## Moderne Vorgehensmodelle
+### V-Modell
+* Erweiterung des Wasserfall-Modells um den Bereich der Qualitätssicherung
+* Verifikation und Validierung der zu entwickelnden Software werden Bestandteile des Modells
+* Verifikation:
+  * Überprüfung der Übereinstimmung zwischen Software-Produkt und seiner Spezifikation
+  * „Are we building the product right?“
+* Validierung:
+  * Eignung eines Produkts bezogen auf seinen Einsatzzweck
+  * „Are we building the right product?“
+  * potenzielle Nutzer des Systems spezifizieren Anwendungsszenarien
+* V-Modell XT: flexiblere Anpassbarkeit
+
+---
+### V-Modell
+
+<figure>
+    <img style="width:100%;height:auto;" src="https://raw.githubusercontent.com/ProjektManagementGruppe3/Ausarbeitung/master/include/daniel/v-modell.PNG"  />
+    <figcaption>
+        V-Modell zur Softwareentwicklung nach Aichele
+    </figcaption>
+</figure>
+
+
+---
+## Moderne Vorgehensmodelle
+### Rational-Unified-Process-Modell
+* für objektorientierte und modellbasierte SW-Entwicklung, eng mit UML verbunden
+* ganzer Baukasten oder Framework von Methoden und Prozessen
+* flexibel und anpassbar, aber schwer erlernbar
+* 3 Grundprinzipien
+  * RUP ist anwendungsfallgetrieben
+  * Die Architektur steht im Zentrum der Planung
+  * Das Vorgehen zur Entwicklung ist inkrementell/iterativ
+---
+
+* 4 zeitlich geordnete Phasen, die in mehreren Iterationen behandelt werden können
+* Jede Phase endet an definierten Meilenstein
+  * Stakeholder beurteilen das Projekt, insbesondere was erreicht wurde und Pläne für die Zukunft
+  * Entscheidung über Fortführung des Projekts
+  * Jede Phase hat Reihe an Zielen, die innerhalb der Iterationen der Phase angegangen werden, um Meilenstein der Phase einzuhalten
+
+---
+
+* Vorbereitung (Projektsetup/Konzeption)
+  * Ziel einer gemeinsamen Vision, eines klaren Zieles sowie der Erstellung eines rudimentären Anwendungsfallmodells
+    * beschreibt wesentliche Funktionalität
+  * provisorische Architektur
+  * Identifizierung der wesentlichsten Risiken; Planung der Ausarbeitungsphase
+
+* Ausarbeitung (Entwurf)
+  * Ausarbeitung eines Architekturprototyps; grobe Beschreibung der Anwendungsfälle
+  * Planung der Konstruktionsphase, Machbarkeitstests, Systemevaluierung und erste Programmteile von Schlüsselkomponenten
+
+* Konstruktion (Implementierung)
+  * Entwicklung und Testen des Produkts
+  * sämtliche Anforderungen werden unter laufender Abstimmung mit dem Kunden realisiert
+
+* Übergang (Inbetriebnahme)
+  * Übergabephase und Freigabe der Software an den Kunden
+
+* Disziplinen repräsentieren die logischen Aktivitäten, die während eines Projekts stattfinden
+
+---
+<figure>
+    <img style="width:100%;height:auto;" src="https://raw.githubusercontent.com/ProjektManagementGruppe3/Ausarbeitung/master/include/daniel/rup-modell.PNG"  />
+    <figcaption>
+        Rational-Unified-Process-Modell zur Softwareentwicklung nach Aichele
+    </figcaption>
+</figure>
+
+---
+## Moderne Vorgehensmodelle
+### Vor- und Nachteile moderner Vorgehensmodelle:
+
+**Vorteile**
+* Projektrisiken können früh erkannt werden
+* Volatile Anforderungen können besser berücksichtigt werden
+* Hohe Effizienz bei bekannten und konstanten Anforderungen
+* Erhöhte Transparenz
+
+**Nachteile**
+* Aufwand für alle Projektbeteiligten ist sehr hoch
+* Komplexes Projektmanagement, da eine Anpassung an das jeweilige Projekt notwendig ist
+* Ergebnisse sind schwer messbar, da keine Qualitätssicherung im Modell vorgesehen ist
+
+---
+## Agile Vorgehensmodelle
+### Extreme Programming (XP)
+
+* beschränkt sich weitgehend auf die Betrachtung der Softwareerstellung und blendet Planungsvorgänge aus
+* bei unklaren Anforderungen und häufigen Änderungen stellt XP Prinzipien zur Verfügung, die die _Kommunikation_ innerhalb eines Projekts vereinfachen sollen
+* Arbeitsaufteilung: Kunde für Planung und Beschreibung von Vorgängen zuständig; Entwicklung arbeitet an der Umsetzung eines Softwareprodukts und gibt Rückmeldung über Erfolg / Misserfolg
+* Kommunikation erfolgt mit Hilfe von User Stories
+* Vertreter der Kundenseite begleitet Entwicklung der Software
+* Pair Programming
+
+* für kleine Projekte, die eine intensive persönliche Kommunikation voraussetzen
+* eignet sich für die schnelle Erstellung von Teilprogrammen und ermöglicht bereits nach kurzer Zeit Ergebnisse vorliegen zu haben
+* Wegen mangelnden Entwurfsplanung in der Kritik
+
+---
+## Agile Vorgehensmodelle
+### Scrum
+* Grundannahme: Projekte sind aufgrund ihrer Komplexität von Anfang an nicht detailliert planbar
+  * keine starren Templates oder Verfahrensanweisungen
+  * Prozess und Arbeitsweise werden in Reviews immer wieder begutachtet und gegebenfalls angepasst
+* In maximal 1 Monat langen Zyklen ("Sprints") werden iterativ (möglichst auslieferbare) Produkt-Inkremente erstellt
+---
+
+* selbstorganisierendes Team, das durch drei Rollen bestimmt wird:
+  * Product Owner
+    * vertritt die Stakeholder des Produkts
+    * zuständig für den Product Backlog
+    * verantwortlich für Maximierung des Nutzens des Produkts
+    * priorisiert die Anforderungen des Kunden und steuert den Entwicklungsprozess
+  * Das Team
+    * Umsetzung der Anforderungen in auslieferbare Produktinkremente
+    * bestimmt selbstorganisierend, welche Elemente des Product Backlogs es innerhalb eines Sprints umsetzen will
+    * hat das Recht, eine Auswahl zu treffen, verpflichtet sich dafür aber auch, das durch die Auswahl gesetzte Ziel zu erreichen
+  * Scrum Master
+    * überprüft Einhaltung des Scrum-Prinzips
+    * darf nicht Product Owner oder Teil des Teams sein
+    * muss verhindern, dass Product Owner zu viele Planungsvorgaben macht
+    * unterstützt das Team, fördert Lernprozesse und moderiert Besprechungen und bei Konflikten
+
+---
+### Scrum
+**Scrum Artefakte**
+* Product Backlog 
+  * Anforderungen an die Software
+  * Wird durch den Product Owner erstellt und gepflegt
+* Sprint Backlog
+  * Wird durch das Projektteam erstellt und spiegelt durch eine Auswahl der Inhalte des Product Backlog die Zielvorgaben für einen Sprint wieder
+  * Während eines Sprints wird das Sprint Backlog nicht um neue Einträge erweitert
+* Release
+  * Jeder Sprint schließt mit einem lieferfähigen Release ab, welches in der Regel durch den Kunden geprüft wird.
+
+---
+<figure>
+    <img style="width:100%;height:auto;" src="https://raw.githubusercontent.com/ProjektManagementGruppe3/Ausarbeitung/master/include/daniel/scrum.PNG"  />
+    <figcaption>
+        Scrum-Prozess nach Aichele
+    </figcaption>
+</figure>
+---
+### Vor- und Nachteile agiler Vorgehensmodelle:
+
+**Vorteile**
+* Gute Einsetzbarkeit bei unklaren Zielen und sich ändernden Anforderungen
+* Hohe Flexibilität und verringerte Komplexität der Projektverwaltung
+* Erhöhte Transparenz auf den Projektstand und mögliche Risiken
+
+**Nachteile**
+* Eigenverantwortlichkeit des Projektteams kann zu Schwierigkeiten führen
+* Erhöhter Kommunikations- und Abstimmungsaufwand
+* Häufig fehlende Dokumentation der Ergebnisse
 
 ---
 
