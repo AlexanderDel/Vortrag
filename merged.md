@@ -194,7 +194,7 @@ Moritz Withöft
 # Übersicht behalten
 
 - Wichtig den Überblick zu behalten
-    - anfangs schwierig, weil Details fehlen können
+    - Anfangs schwierig, weil Details fehlen können
 - Mögliches Verfahren: Zoom-in / Zoom-out
     - Zoom-in und Zoom-out
         - Finales Ziel mit maximaler Qualität vor Augen halten
