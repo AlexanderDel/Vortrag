@@ -107,7 +107,7 @@ Moritz Withöft
 ---
 
 # Projektqualität- und Erfolg
-## Modelle zur Objektiven Messung von Erfolg
+ - Modelle zur Objektiven Messung von Erfolg
 
 <img src="https://raw.githubusercontent.com/ProjektManagementGruppe3/Ausarbeitung/master/include/justin/konzept_messen.PNG" width="55%" style="float:left; margin: 10px;">
 
