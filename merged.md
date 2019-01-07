@@ -81,7 +81,7 @@ Moritz Withöft
   - Ressourcenplanung (Was wird benötigt? Kosten?)
   - Kostenplanung
   - Risiken einschätzen (Alternativen finden)
-  - Ziele mit Termine festlegen und die auch einhalten
+  - Zeitmanagement
   - Stakeholder
   - Teamkonstellation
   - Projektergebnisse und Laufzeit evaluieren
