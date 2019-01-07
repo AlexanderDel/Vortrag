@@ -2559,21 +2559,21 @@ class:middle,center
 * In maximal 1 Monat langen Zyklen ("Sprints") werden iterativ (möglichst auslieferbare) Produkt-Inkremente erstellt
 ---
 
-* selbstorganisierendes Team, das durch drei Rollen bestimmt wird:
-  * Product Owner
-    * vertritt die Stakeholder des Produkts
-    * zuständig für den Product Backlog
-    * verantwortlich für Maximierung des Nutzens des Produkts
-    * priorisiert die Anforderungen des Kunden und steuert den Entwicklungsprozess
-  * Das Team
-    * Umsetzung der Anforderungen in auslieferbare Produktinkremente
-    * bestimmt selbstorganisierend, welche Elemente des Product Backlogs es innerhalb eines Sprints umsetzen will
-    * hat das Recht, eine Auswahl zu treffen, verpflichtet sich dafür aber auch, das durch die Auswahl gesetzte Ziel zu erreichen
-  * Scrum Master
-    * überprüft Einhaltung des Scrum-Prinzips
-    * darf nicht Product Owner oder Teil des Teams sein
-    * muss verhindern, dass Product Owner zu viele Planungsvorgaben macht
-    * unterstützt das Team, fördert Lernprozesse und moderiert Besprechungen und bei Konflikten
+selbstorganisierendes Team, das durch drei Rollen bestimmt wird:
+ * Product Owner
+   * vertritt die Stakeholder des Produkts
+   * zuständig für den Product Backlog
+   * verantwortlich für Maximierung des Nutzens des Produkts
+   * priorisiert die Anforderungen des Kunden und steuert den Entwicklungsprozess
+ * Das Team
+   * Umsetzung der Anforderungen in auslieferbare Produktinkremente
+   * bestimmt selbstorganisierend, welche Elemente des Product Backlogs es innerhalb eines Sprints umsetzen will
+   * hat das Recht, eine Auswahl zu treffen, verpflichtet sich dafür aber auch, das durch die Auswahl gesetzte Ziel zu erreichen
+ * Scrum Master
+   * überprüft Einhaltung des Scrum-Prinzips
+   * darf nicht Product Owner oder Teil des Teams sein
+   * muss verhindern, dass Product Owner zu viele Planungsvorgaben macht
+   * unterstützt das Team, fördert Lernprozesse und moderiert Besprechungen und bei Konflikten
 
 ---
 ### Scrum
