@@ -26,7 +26,7 @@ Moritz Withöft
 - Tools - Jira
 
 ---
-
+class: middle, center 
 
 # Projektmanagement verstehen
 
