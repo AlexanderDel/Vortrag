@@ -211,9 +211,10 @@ Moritz Withöft
 ---
 
 # Übersicht behalten
-## Zusammenspiel von den Komponenten
+- Zusammenspiel von den Komponenten
 
-<img src="https://raw.githubusercontent.com/ProjektManagementGruppe3/Ausarbeitung/master/include/justin/kreislauf.PNG" width="39%" style="float:left; margin: 10px;">
+<img src="https://github.com/ProjektManagementGruppe3/Vortrag/blob/master/images/uebersicht_1.PNG?raw=true" width="48%" style="float:left; margin: 5px;">
+<img src="https://github.com/ProjektManagementGruppe3/Vortrag/blob/master/images/uebersicht_2.PNG?raw=true" width="48%" style="float:right;; margin: 5px">
 
 ---
 
