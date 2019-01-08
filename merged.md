@@ -232,49 +232,43 @@ class: middle, center
 
 # Projekte definieren
 
---
-count: false
 - Was definiert werden muss...
 
---
-count: false
+
+
 - Der Projektauftrag
 
---
-count: false
+
+
 - Stakeholdermanagement
 
---
-count: false
+
+
 - Rollen im Projektmanagement
 
---
-count: false
+
+
 - Das Team
 
 ---
 # Was definiert werden muss...
 
---
-count: false
+
 - Meilensteine
 
  - Termine und Deadlines
 
---
-count: false
+
 - Abschätzung des Aufwands
  - Finanziell und anhand des Ressourcenverbrauchs
 
---
-count: false
+
 - Projektumfeld
  - Projektleitung
  - Stakeholder
  - Teammitglieder
 
---
-count: false
+
 - Rollen und Verantwortlichkeiten
  - Aufteilung der Zuständigkeiten
 
@@ -304,8 +298,7 @@ count: false
 - Ist das Projekt finanziell zu leisten? Woher kommen die Ressourcen dafür?
 - Kann das Projekt mit den vorhandenen Kompetenzen umgesetzt werden?
 - Welchen Risiken und Nebeneffekte sind zu erwarten?  
---
-count: false
+
   
 <br/><span>&rArr;</span> Lohnt sich das Projekt?
 
@@ -314,16 +307,14 @@ count: false
 
 Möglichkeiten zur Klärung von Fragen und Aufteilung:  
 
---
-count: false
+
   
 Kick-off-Veranstaltung:
 - oft nur symbolischer Charakter
 - Projekt bekommt seinen "Startschuss" 
 - Präsentation 
 
---
-count: false
+
   
 Start-up-Workshop:  
 - umfangreiche Einführung und Diskussion des Projekts
@@ -359,20 +350,17 @@ Start-up-Workshop:
 ---
 # Stakeholdermanagement - Wie?
 
---
-count: false
+
 - Auseinandersetzung mit den sozialen Einflussfaktoren
  - Unterstützer
  - vom Projekt Betroffene
  - mögliche Gegner
 
 
---
-count: false
+
 > Stakeholdermanagement ist erforderlich, weil diese sowohl wichtige, tragende Aspekte zum Projekt einbringen können, ggf. aber auch in der Lage sind das Projekt scheitern zu lassen.
 
---
-count: false
+
 
 Frühzetige Einbindung **aller** Stakeholder, indem man jeden Stakeholder:
 
@@ -384,14 +372,13 @@ Frühzetige Einbindung **aller** Stakeholder, indem man jeden Stakeholder:
 
 ---
 # Stakeholdermanagement - Stakeholderidentifizierung
---
-count: false
+
 <img src="https://raw.githubusercontent.com/ProjektManagementGruppe3/Ausarbeitung/master/include/moritz/Stakeholderermittlung_Tabelle.JPG" width="300" style="float:right; margin: 10px;">
 > Ein Stakeholder ist jeder der sich für einen Stakeholder am Projekt hält. Nicht das Projektteam entscheidet dies.
 
 
---
-count: false
+
+
 Identifizierung mit Hilfe:
 - der Abbildung
 - Gesprächen z.B. mit Auftraggebern oder Nutzern
@@ -399,8 +386,7 @@ Identifizierung mit Hilfe:
 
 **Gespräche sind unvermeidlich, denn:**
 
---
-count: false
+
 > Stakeholdermanagement ist Emotionsmanagement.
 
 ---
@@ -410,23 +396,19 @@ count: false
 
 Einschätzung auf drei Kerneigenschaften:
 
---
-count: false
+
 - Unterstützungspotenzial
 
---
-count: false
+
 - Haltung gegen über dem Projekt
 
---
-count: false
+
 - Schadenspotenzial
 
 ---
 # Stakeholdermanagement - Maßnahmen
 
---
-count: false
+
   
 Umgang:
 - Ansprache des ganzen Menschen: Verstand, Herz, Einstellung, Vorlieben, Neigungen etc.
@@ -435,8 +417,7 @@ Umgang:
 - Energie erzeugen und halten: Nach Workshop mit Fortsetzung nicht zu lange warten, da der Stakeholder sonst schnell die Motivation verlieren kann
 
 
---
-count: false
+
   
 Projektmarketing:
 - Projektpräsentationen, die auf Veranstaltungen gehalten werden
@@ -449,16 +430,14 @@ Projektmarketing:
 ---
 # Stakeholdermanagement im Projektverlauf
 
---
-count: false
+
 - keine einmalige Sache
 - ist während des gesamtem Projektlebenszyklus durchzuführen
 - Menschen können Meinung ändern
 - Stakeholder können wegfallen oder hinzukommen
 - ständige Aktualisierung nötig
 
---
-count: false
+
   
 **Stakeholdermanager:**
 - verteilt Aufgaben im Bezug auf die Stakeholder
@@ -484,14 +463,12 @@ count: false
 ---
 # Stakeholdermanagement - Segeltörn
 
---
-count: false
+
 - Bewertung der Stakeholder und Einordnung in das Stakeholderregister
 - Detaillierungsgrad richtet sich am Umfang des Gesamtprojekts
 - Projektleitung musste entscheiden, in welcher Größe dieser Aspekt bearbeitet werden sollte
 
---
-count: false
+
   
 <br/>
 - Man hat sich für folgende Aufteilung entschieden:
@@ -499,8 +476,7 @@ count: false
  - Teil 2 zur Analyse des Einflusses
  - Teil 3 zur Auflistung der Maßnahmen
 
---
-count: false
+
   
 > Die eingetragenen Ergebnisse sind das Resultat einer ersten Einschätzung des Teams sind und bedürfen im Verlauf des Projekts mehrerer Anpassungen.
 
@@ -508,22 +484,19 @@ count: false
 # Rollen im Projektmanagement
 
 **Wichtige Rollen:**
---
-count: false
+
 - Projektleiter – Project Manager
  - Führung des Teams
  - führt Projektteam partizipativ
  - stellt die Umsetzung des Business Case und Projektauftrags sicher
  - für Qualität, Umfang, Risiken etc. verantwortlich
  - pflegt Schnittstellen nach außen
---
-count: false
+
 - Projektcontroller – Project Controller
  - unterstützt Projektleitung
  - hilft bei der Ressourcenplanung
  - entwickelt Korrekturmaßnahmen
---
-count: false
+
 - Systemarchitekt – Systems Engineer / Systems Architect
  - Verantwortlicher des Gesamtsystems
  - Sicherstellung der Funktionilität des Systems
@@ -533,19 +506,16 @@ count: false
 # Rollen im Projektmanagement
 
 **Wichtige Rollen:**
---
-count: false
+
 - Qualitätsmanager – Quality Manager
  - Qualitätsmanagement des Projektergebnisses
  - Qualitätsplanung, -lenkung, -sicherung und -verbesserung
---
-count: false
+
 - Risikomanager – Risk Manager
  - identifiziert Risiken
  - plant Umgang mit diesen
  - beobachtet Risiken und reagiert auf Neue
---
-count: false
+
 - Stakeholdermanager – Stakeholder Manager
  - muss gut mit Menschen umgehen können
  - verwaltet Identifikation, Einschätzungen, Maßnahmen etc. der Stakeholder
@@ -554,23 +524,19 @@ count: false
 # Rollen im Projektmanagement
 
 **Weitere Rollen:**
---
-count: false
+
 
 
 <u>Der Programmleiter:</u> koordiniert große Vorhaben, die meist mehrere Projekte umfassen und selbst wiederum eine Projektleitung haben.
---
-count: false
+
 
 
 <u>Der Vertragsmanager:</u> ist Bestandteil eines Projekts, wenn Verträge mit externen Parteien eine übergeordnete Rolle spielen. Auf diese Weise ist man in der Lage rechtliche Angelegenheiten zu bündeln und eine sinnvolle Struktur aufrechtzuerhalten.
---
-count: false
+
 
 
 <u>Der Konfigurationsmanager:</u> ist für die Erzeugung und Darstellung von Dokumentationen und Spezifikationen verantwortlich.
---
-count: false
+
 
 
 <u>Der Projektmarketingmanager:</u> wird in internen Projekten benötigt, welches die Restrukturierung einer Organisation als Ziel hat. Hier ist das Marketing des Projekts von höherer Bedeutung.
@@ -594,8 +560,7 @@ Abhängig von Projektgröße:
 - Personen nehmen nur ihre Projektmanagement-Rollen wahr
 - fachspezifische Aufgaben von extra Mitarbeitern
 
---
-count: false
+
 
 <br/><span>&rArr;</span> strikte Aufteilung beim Segeltörn nicht notwendig!  
 > Heinz Blaubart ist Projektmanager <br/>und Skipper.
@@ -603,15 +568,13 @@ count: false
 ---
 # Das Team
 
---
-count: false
+
 > Ein Team besteht aus einer geringen Anzahl von Personen, die über einen begrenzten Zeitraum ein gemeinsames Ziel verfolgen.
 
 - Team verfolgt ein bestimmtes Projektziel
 - Teamzusammensetzung kann sich über Projektlaufzeit verändern
 
---
-count: false
+
 <img src="https://raw.githubusercontent.com/ProjektManagementGruppe3/Ausarbeitung/master/include/moritz/DasTeam_Gruppenprozesse.jpg" width="300" style="float:right; margin-top:20px; margin-left: 10px;">
   
 **Teamentwicklung:**
@@ -630,21 +593,18 @@ count: false
 
 ---
 # Das Team im Segeltörn - Beispiel
---
-count: false
+
 - Besatzung lebt auf engem Raum:
  - Stress soll nicht auftreten -> Erholung
  - Es muss Rollenverteilung und Hierachie geben
  - Rückzugsraum muss für Besatzung verfügbar sein
---
-count: false
+
 - Erwartungen an den Skipper:
  - Der Skipper muss nicht alles besser wissen an Bord
  - Der Skipper muss nicht alles besser können als seine Crew.
  - Der Skipper darf sich für keine Arbeit an Bord zu schade sein.
  - Der Skipper sollte seine Crew nicht durch Kommandos, sondern durch das Segeln selbst motivieren.
---
-count: false
+
 
 
 > Grundsätzliches Ziel sollte es sein, das Team positiv zu entwickeln. Dass dieses Thema während des Trips durchweg im Fokus steht, ist Aufgabe eines dazu benannten Teammitglieds.
@@ -661,7 +621,7 @@ template: präsi
 template: präsi
 # Inhalt
 
---
+
 - Anforderungsmanagement
 - Projektstruktur
 - Risikomanagement
@@ -673,7 +633,7 @@ template: präsi
 ---
 # Anforderungsmanagement
 
---
+
 **Anforderungen Definieren**
 
 - projektkritisch
@@ -684,7 +644,7 @@ template: präsi
 - Lasten- & Pflichtenheft
 - Gegenansicht
 
---
+
 **Anforderungen Ermitteln**
 
 - Stakeholdererwartungen
@@ -703,7 +663,7 @@ template: präsi
 - hierarchische Ordnung
 
 
---
+
 
 
 - SMART
@@ -722,7 +682,7 @@ template: präsi
   - praktische Methoden
 
 
---
+
 
 
 - Validierung
@@ -745,7 +705,7 @@ template: präsi
     </figcaption>
 </figure>
 
---
+
 - höchste Priorität: Zufriedenheit
 - dann: Erwartungen
 - welche Absicht hinter Aussagen
@@ -762,7 +722,7 @@ template: präsi
 ---
 # Projektstruktur
 
---
+
 **Projektstrukturplan**
 
 - auch PSP
@@ -799,7 +759,7 @@ template: präsi
   - auf Erfahrung zurückgegriffen
 
 
---
+
 
 
 - Zum Gliedern der Aufgaben:  
@@ -808,7 +768,7 @@ template: präsi
 - Phasenorientierung: orientiert am Phasenmodell
 
 
---
+
 
 
 - Team einig mit PSP
@@ -843,7 +803,7 @@ Mehr zu den APs:
     </figcaption>
 </figure>
 
---
+
 - PSP erlaubt Kostenkalkulation
 - & Aufwandsschätzung
 - Kostenarten
@@ -867,7 +827,7 @@ Mehr zu den APs:
 6. Dokumentation
 7. Arbeitspaketbeschreibungen
 
---
+
 <figure class="fig_left" style="width:430px;" role="group">
     <img src="https://raw.githubusercontent.com/ProjektManagementGruppe3/Ausarbeitung/master/include/michael/142_PSP_Segeltoern.PNG" alt="142_PSP_Segeltoern.PNG" />
     <figcaption>
@@ -886,7 +846,7 @@ Mehr zu den APs:
 ---
 # Risikomanagement
 
---
+
 
 - Risiko
 - Gefahren klein halten
@@ -928,7 +888,7 @@ Mehr zu den APs:
     - Experteninterview
     - Befragung der Stakeholder
 
---
+
 - Themenfelder mit offenen Fragen:
     - Themenfelder aus Projektumfeld oder aus Analyse der Stakeholder
     - Aus APs des PSP's Risiken ableiten
@@ -957,7 +917,7 @@ Mehr zu den APs:
     </figcaption>
 </figure>
 
---
+
 
 - angebrachter Aufwand
 - Beobachtung
@@ -994,7 +954,7 @@ Themengebiete beim Segeltörn:
 ---
 # Qualitätsmanagement
 
---
+
 **Qualität Erzeugen**
 
 - Qualität
@@ -1068,7 +1028,7 @@ Misslungen
 - darum: zwei Tage Heimreise mit Motor
 - Crew entscheidet Abbruch
 
---
+
 
 Also  
 1. Jeder weiß, wie die Qualität sein wird
@@ -1077,7 +1037,7 @@ Also
 ---
 # Ablauf- und Terminplanung
 
---
+
 **Wie Erstellt**
 
 - realistisch
@@ -1097,7 +1057,7 @@ mehrere Zeitpläne:
 - Phasen- und Meilensteinplan grobe Rahmen  
 
 
---
+
 
 
 wichtigste Themen:  
@@ -1119,7 +1079,7 @@ wichtigste Themen:
   - Arbeiterkompetenz
   - Koordinationsaufwand
 
---
+
 
 
 - Normalbedingungen
@@ -1141,7 +1101,7 @@ wichtigste Themen:
 - hohe Belastung
 - Zeitreserven  
 
---
+
 
 
 Unterstützung durch Tools
@@ -1184,7 +1144,7 @@ Unterstützung durch Tools
 ---
 # Aufwands- und Kostenplanung
 
---
+
 **Projektkalkulation**
 
 - Aufwand
@@ -1194,7 +1154,7 @@ Unterstützung durch Tools
 - Risikozuschlag/ Vorsorgebudget
 
 
---
+
 
 
 - Kalkulation "Projektpreise"
@@ -1248,7 +1208,7 @@ folgende Kriterien:
     - Moderator
     - Protokollant
 
---
+
 
 - Durchführung:
     - Begrüßung
@@ -1275,7 +1235,7 @@ folgende Kriterien:
         - Geschwindigkeit bei Transport
 
 
---
+
 2. parametrische Methoden
    - verbinden vielfältige Zusammenhänge
    - fertige Projekte untersucht, für Algorithmen, die Aufwandsprognosen berechnen
@@ -1295,7 +1255,7 @@ Folgende Punkte der Projektkalkulation:
     - Kostenträger
 
 
---
+
 
 
 - Projekt selbst oberste Kostenträger  
@@ -1396,27 +1356,27 @@ fünf Schritte:
 ---
 ## Inhalt
 
---
-count: false
+
+
 - Konfigurations- und Änderungsmanagement
 
 
---
-count: false
+
+
 - Projektfortschritt messen und Prognosen errechnen
 
 
---
-count: false
+
+
 - Reviews
 
 
---
-count: false
+
+
 - Steuerungsmaßnahmen
 
---
-count: false
+
+
 ##  
 
 Nach jedem Unterthema folgt der jeweilige Bezug zum Projekt Segeltörn.
@@ -1425,13 +1385,13 @@ Nach jedem Unterthema folgt der jeweilige Bezug zum Projekt Segeltörn.
 name: konfmanag
 ## Konfigurations- und Änderungsmanagement
 ---
-count: false
+
 
 template: konfmanag
 <b>Konfigurationen</b>
 
---
-count: false
+
+
 Einige Beispiele für Konfigurationsdokumente: 
 - Anforderungsdefinitionen
 - Spezifikation oder Pflichtenhefte
@@ -1453,28 +1413,28 @@ class: middle, center
 <b>Warum ist Konfigurations- und Änderungsmanagement wichtig?</b>  
 Ohne Konfigurations- und Änderungsmanagement könnten folgende Probleme auftreten:
 
---
-count: false
+
+
 - Mangelnde Abstimmung mit den Schnittstellen führen zu inkonsistenten Konfigurationen
 
---
-count: false
+
+
 - Beteiligte arbeiten mit verschiedenen Referenzkonfigurationen
 
---
-count: false
+
+
 - Änderungen verursachen Kosten, bei denen nicht geregelt ist, wer diese übernimmt
 
---
-count: false
+
+
 - Terminverschiebungen werden nicht berücksichtigt
 
---
-count: false
+
+
 - Der ursprünglich vereinbarte Leistungsumfang verändert sich ohne formale Zustimmung. Es werden vermeidbare und unautorisierte Änderungen durchgeführt.
 
---
-count: false
+
+
 - Mängel und fehlerhafte Teile können nicht zurückverfolgt werden. Die Behebung wird aufwendiger als nötig.
 
 ---
@@ -1489,7 +1449,7 @@ Die ISO 10007 behandelt fünf Prozesse des Konfigurationsmanagements:
 - Konfigurationsaudit (Configuration Audit)
 
 ---
-count: false
+
 
 <b>Wie kann ein systematisches Konfigurationsmanagement aussehen?</b>  
 
@@ -1501,8 +1461,8 @@ count: false
 >- Konfigurationsaudit (Configuration Audit)
 
 #  
---
-count:false
+
+
 
 <b>Konfigurationsmanagementplanung: </b>   
 Es wird festgelegt wie und womit Konfigurationsmanagement unterstützt wird, in welchem Umfang es ausgeführt werden soll, und wer dafür zuständig ist. 
@@ -1524,17 +1484,17 @@ class: middle, left
 <b>Konfigurationsidentifizierung</b>
 - Konfigurationseinheiten werden festgelegt
 
---
-count:false
+
+
 
 Mögliche Fragen für die Auswahl von Konfigurationseinheiten:
 - Handelt es sich um eine eigene Liefereinheit, eine Zuliefereinheit oder einen eigenen Vertragsbestandteil?
---
-count:false
+
+
 - Ist es sinnvoll, die Einheit besonders zu überwachen, da sie kritische Eigenschaften für die Einhaltung der Projektziele besitzt?
 
---
-count:false
+
+
 
 Für Konfigurationseinheiten müssen immer zwei Dinge gewährleistet sein:
 - Der Inhalt: beinhaltet Regeln für die Baseline
@@ -1557,14 +1517,14 @@ class: middle, left
 <b>Änderungslenkung (auch Änderungsmanagement)</b>  
 
 Das Änderungsmanagement besteht im Wesentlichen aus drei Prozessschritten:
---
-count:false
+
+
 - Initiieren und planen: Der Änderungsantrag
---
-count:false
+
+
 - Verhandeln und Entscheiden: Änderungsantrag freigeben
---
-count:false
+
+
 - Umsetzen: Änderungsmitteilung
 
 ---
@@ -1578,11 +1538,11 @@ class:middle,center
 <b>Verhandeln und Entscheiden</b>  
 
 In diesem Prozessschritt wird die Änderung bewertet:
---
-count:false
+
+
 - Was sind die Auswirkungen bezüglich Kosten, Termine und andere Funktionen des Systems?
---
-count:false
+
+
 - Wer übernimmt die zusätzliche Kosten?
 
 
@@ -1591,19 +1551,19 @@ count:false
 <b>Umsetzen</b>  
 
 Wichtig sind: 
---
-count:false
+
+
 - Informieren aller Beteiligten über die neue Baseline
---
-count:false
+
+
 - Festlegen, zu welchem Zeitpunkt die Änderung einzufügen ist
---
-count:false
+
+
 - Kennzeichnen, Aufzeichnen, Verfolgen und das Berichten über die Umsetzung der Änderung
 
 #  
---
-count:false
+
+
 
 Jedes Dokument sollte Angaben enthalten zu:
 - Titel
@@ -1614,26 +1574,26 @@ Jedes Dokument sollte Angaben enthalten zu:
 
 Die <b>Konfigurationsbuchführung</b> verwaltet alle Konfigurationsdokumente, die zusammen die Baseline bilden. Relevante Dokumente hierfür sind:
 - Produktbaum
---
-count:false
+
+
 - Spezifikation für jede Konfigurationseinheit
---
-count:false
+
+
 - Zeichnungen und Stücklisten
---
-count:false
+
+
 - Vorschriften für z.B. die Fertigung, Handhabung, Fertigungseinrichtungen, Hilfsmittel, Verpackung und Transport
---
-count:false
+
+
 - Vorschriften für Tests und Abnahmen
 
 #  
---
-count:false
+
+
 Alle Änderungen in den Einzeldokumenten führen zur Aktualisierung der Baseline.
 
---
-count: false
+
+
 
 <b>Konfigurationsaudit</b>  
 Der fünfte und letzte Prozess des Konfigurationsmanagements soll prüfen, ob ein Produkt den Anforderungen und seinen Produktkonfigurationsangaben entspricht.
@@ -1647,8 +1607,8 @@ Welche <b>Konfigurationseinheiten</b> zählen zu Segeltörn?
 - Dauer des Törns
 - Törngebiet mit möglichen Ausflugszielen
 
---
-count:false
+
+
 
 <b>Konfigurationsdokumente:</b>
 - Chartervertrag
@@ -1663,13 +1623,13 @@ count:false
 
 - Die Proviantliste VN-P L2 ist ein Arbeitsergebnis des Arbeitspaketes "Crew" und wird später im Arbeitspaket "Proviant" umgesetzt
 
---
-count:false
+
+
 
 - Der Einweisungsplan VNEAL3 stammt auch von "Crew" und wird später im "Crewtraining" angewendet
   
---
-count:false
+
+
 
 - Die Buchführung und Steuerung der Dokumente wird in dem Arbeitspaket "Dokumentation" erledigt.
   - Aus diesem Arbeitspaket ergibt sich die aktualisierte Baseline
@@ -1678,17 +1638,17 @@ count:false
 
 <b>Welche Absprachen sollen für das Konfigurations- und Änderungsmanagement getroffen werden?</b>
 - Dokumente werden nur vom jeweiligen Arbeitspaketverantwortlichen freigegeben und geändert.
---
-count:false
+
+
 - Für Dateinamen wird eine Namenskonvention festgelegt:
   - Vorname des Autors
   - sprechender Name für den Inhalt des Dokuments
   - Versionsnummer und Datum
---
-count:false
+
+
 - Erlaubte Dateiformate sind MS Office Version 2010, Open Office Version 2010
---
-count:false
+
+
 - Bei folgenden Änderungen müssen alle Crewmitglieder einverstanden sein:
   - Chartervertrag und Schiffstyp
   - Crewvertrag
@@ -1698,46 +1658,46 @@ count:false
 
 ## Projektfortschritt messen und Prognosen errechnen
 
---
-count:false
+
+
 
 <b>Termine</b>: Plantermine und Isttermine
---
-count:false
+
+
 - Welche Aufgaben wurden wann erledigt?
---
-count:false
+
+
 - Welche Aufgaben wurden angefangen?
---
-count:false
+
+
 - Wann werden sie erledigt sein und was bedeutet das für den Projektendtermin?
---
-count:false
+
+
 - Welche Aufgaben sind noch zu erledigen, und von wann bis wann werden sie bearbeitet?
 
---
-count:false
+
+
 
 <b>Kosten</b>: Plankosten, Istkosten und Sollkosten
---
-count:false
+
+
 - Wieviel Kosten sind bisher insgesamt angefallen?
---
-count:false
+
+
 - Welche Kosten sind für die einzelnen Arbeitspakete angelaufen?
---
-count:false
+
+
 - Welche Kosten sind noch einzuplanen?
---
-count:false
+
+
 - Wieviel wird das Projekt insgesamt am Ende kosten?
 
---
-count:false
+
+
 
 <b>Leistung</b>: Planleistung und Istleistung
---
-count:false
+
+
 - Inwieweit entsprechen die Ergebnisse den Vorgaben der Baseline?
 
 ---
@@ -1748,11 +1708,11 @@ count:false
 
 #  
 
---
-count:false
+
+
 <b>Warum müssen Ist und Soll verglichen und Prognosen ermittelt werden?</b>  
---
-count:false
+
+
 Liegt eine Abweichung vor liegen die Interessen des Auftragsgebers und des Managements bei zwei Frage:
 - Was sind die Auswirkungen der Abweichung?
 - Wie sehen mögliche Korrekturmaßnahmen einschließlich ihrer Konsequenzen aus?
@@ -1772,18 +1732,18 @@ Dazu stehen verschiedene Methoden zur Verfügung:
 - Sekundärproportionalität (anteiliger Aufwand)
 
 #  
---
-count:false
+
+
 
 Wie wird der Istzustand ermittelt?
---
-count:false
+
+
 - Arbeitspaketverantwortliche tragen zu den vereinbarten Berichtsterminen den aktuellen Status vor.
---
-count:false
+
+
 - Projektmitarbeiter melden Istdaten an das Projektcontrolling bzw. das betriebliche Rechnungswesen.
---
-count:false
+
+
 - Walkaround
 
 ---
@@ -1795,19 +1755,19 @@ Mögliche Ursachen von Ist-Soll-Abweichungen:
 - Ungeplante Änderungen verursachen Mehraufwand
 - Ermittelte Istdaten sind falsch
 
---
-count:false
+
+
 
 <b>Wie werden Prognosen erstellt?</b>  
 Die verbleibende Arbeit wird neu bewertet, indem die Kosten
 neu errechnet werden. Mögliche Vorgehensweisen:
 
---
-count:false
+
+
 
 - Neue Schätzung auf Basis der aktuellen Erkenntnisse
---
-count:false
+
+
 - Die zukünftige Entwicklung wird mit Hilfe der Daten aus der Vergangenheit fortgeschrieben. Die verbleibende Arbeit wird mit Kennzahlen berechnet.  
   Als Kennzeichen zählt z.B. der CPI (Cost Performance Index)
 
@@ -1822,15 +1782,15 @@ count:false
 ---
 
 Im täglichen Briefing und Debriefing wird der Fortschritt des Törns gemessen.  
---
-count:false
+
+
 
 
 
 Während des Törns (Durchführungsphase) kommt es zu einer Abweichung:  Während der Fahrt werden Bojen oder Tonnen sichtbar, die laut Plan jedoch nicht da sein sollten.  
 
---
-count:false
+
+
 Istzustand
 - Der Steuermann steuert den vorgegebenen Kurs.
 - Man segelt mit einer Geschwindigkeit von 6 Knoten.
@@ -1852,22 +1812,22 @@ Das heißt, die Crew hat keinen Fehler gemacht. Beim Annähern zeigt sich, dass 
 ---
 
 ## Reviews
---
-count:false
+
+
 - Finden zu besonderen geplanten Zeitpunkten statt
   - als regelmäßige Statussitzungen
   - zu besonderen Situationen
---
-count:false
+
+
 - Am Ende steht immer eine Entscheidung, die den Projektverlauf beeinflusst
---
-count:false
+
+
 - Dienen als Kommunikation mit den Stakeholdern und mit übergeordneten Entscheidungsträgern.
---
-count:false
+
+
 - Wichtige Reviews werden frühzeitig geplant.
---
-count:false
+
+
 - Reviews sind Teil des Verifikations- und Validierungskonzepts im Projekt.
 
 ---
@@ -1924,7 +1884,7 @@ In der Regel sieht dies jedoch anders aus:
 - Übergabeprüfung - Delivery Review (DR)
 
 ---
-count:false 
+ 
 
 <b>Mögliche Reviews in der Durchführungsphase</b>:
 - <b>Prüfung und Abnahme der Testbedingungen - Test Readiness Review (TRR)</b>
@@ -1939,7 +1899,7 @@ Es werden Prüfungen durchgeführt, ob alle Bedingungen für die Durchführung d
 - Ist das Testobjekt genau definiert?
 
 ---
-count:false
+
 
 <b>Mögliche Reviews in der Durchführungsphase</b>:
 - Prüfung und Abnahme der Testbedingungen - Test Readiness Review (TRR)
@@ -2019,8 +1979,8 @@ Für Reviews müssen bestimmte Information <b>vorbereitet</b> und verteilt werde
   - Welche Entscheidungen sind erforderlich?
   - Was sind die nächsten Schritte (Action Items)?
 
---
-count:false
+
+
 
 Hilfreiche Regeln für ein Review:
 - "Was wollen wir am Ende der Sitzung erreicht haben?"
@@ -2035,11 +1995,11 @@ Hilfreiche Regeln für ein Review:
 - <b>SRR</b>: 
   - Erwartung der potentiellen Crewmitglieder werden ermittelt und aufgelistet.
   - Aus dieser Liste werden Prioritäten und daraus resultierende Anforderungen abgeleitet und in einer Spezifikation beschrieben
---
-count:false
+
+
 - <b>PDR</b>: Bevorzugte Lösung und Eckdaten hinsichtlich Termin, Kosten, Törngebiet und das zu chartende Schiff werden vorgestellt und gemeinsam im Team verabschiedet.
---
-count:false
+
+
 - <b>CDR</b>: Die Dauer, das Törngebiet und die vorraussichtlichen Kosten werden von der Crew genehmigt. Das Schiff und die Flüge sind ausgewählt und die kostenwirksame Buchungen können nun erfolgen.
 
 ---
@@ -2047,17 +2007,17 @@ count:false
 <b>Durchführungsphase:</b>
 - TRR und DR: 
   - Ist das Schiff für den Törn technisch und in Bezug zur Sicherheit in Ordnung?
---
-count:false
+
+
   - Bootsmann der Charterfirma weist den Skipper und die Co-Skipperin ein.
---
-count:false
+
+
   - Das Schiff, seine Ausrüstung und die wesentlichen Funktionen werden mit Hilfe einer Checliste vorgestellt und überprüft.
---
-count:false
+
+
   - Sind alle Fragen geklärt unterschreiben beide Seiten die Checkliste.
---
-count:false
+
+
 - Ähnlicher Reviewprozess nach dem Törn: 
   - Ist das Schiff und die Ausrüstung vollständig und unbeschadet?
 
@@ -2082,22 +2042,22 @@ Bei einer erheblichen Terminabweichung gibt es zwei häufige Maßnahmen:
 - Die Erhöhung der Personalkapazität
 - Die Reduzierung der Leistung
 
---
-count:false
+
+
 
 <b>Erhöhung der Personalkapazität: </b>
 - kostet mehr Zeit und Geld, da neue Mitarbeiter eingewiesen werden müssen.
---
-count:false
+
+
 - Alle Betroffenen müssen zustimmen.
---
-count:false
+
+
 - Neue Risiken bezüglich der Qualität, da neue Mitarbeiter nicht alle Informationen besitzen.
---
-count:false
+
+
 - Mehr Koordinationsaufwand
---
-count:false
+
+
 - Qualifikation der neuen Mitarbeiter muss hinsichtlich des Projekts ermittelt werden
 
 ---
@@ -2105,46 +2065,46 @@ count:false
 <b>Die Reduzierung der Leistung:</b>  
 Es wird unterschieden zwischen Verringerung des Leistungsumfangs oder der Qualität.
 
---
-count:false
+
+
 
 Reduzierung des Leistungumfangs:
 - Reduzierung der Anzahl an Lieferobjekten.
---
-count:false
+
+
 - Akzeptierte, verspätete Lieferung von Teilen von Lieferobjekten oder der Dokumentation.
---
-count:false
+
+
 - Umfang der Dokumentation verkürzen.
 
---
-count:false
+
+
 
 Reduzierung der Qualität:
 - Reduzierung der Anzahl der Anforderungen an die Lieferobjekte.
---
-count:false
+
+
 - Reduzierung einzelner Leistungsanforderungen.
---
-count:false
+
+
 - Verzicht auf Entwicklungs- und Qualifikationstests einzelner Komponente.
---
-count:false
+
+
 - Ersatz einzelner Verifikationstests durch weniger zeitraubender Verifikationsmethoden.
 
 ---
 
 ### Maßnahmen beim Segeltörn
 Die Crew segelt gegen den Wind. Gegen den Wind zu segeln ist allerdings nicht möglich.  
---
-count:false
+
+
 Deswegen existieren drei Optionen:
 - Das Segel wird eingeholt und die rew fährt unter Motor den vorhergesehenen Kurs.
 - Die Crew kreuzt "hoch am Wind" und nimmt dadurch längere Wege und Zeiten in Kauf.
 - Das Etappenziel und damit auch die Törnplanung werden geändert.
 
 ---
-count:false 
+ 
 
 ### Maßnahmen beim Segeltörn
 Die Crew segelt gegen den Wind. Gegen den Wind zu segeln ist allerdings nicht möglich.  
@@ -2187,26 +2147,26 @@ Option 3:
   - neue Fehler können auftreten, welche vermieden werden sollen.
 
 
----  
+---
 
-
-﻿class:middle,center
+class:middle,center
 # Projekte abschließen 
+
 ---
 ## Inhalt
 
---
-count:false
+
+
 
 - Planen abschließender Aktivitäten
 
---
-count:false
+
+
 
 - Projektauswertung und Abschlussbericht
 
---
-count:false
+
+
 
 - Den Segeltörn erfolgreich abschließen
 
@@ -2215,26 +2175,26 @@ count:false
 ## Planen abschließender Aktivitäten
 Abschließende Aufgaben:
 - Detaillierte Ablaufplanung der Projektabschlussphase laut Projektstrukturplan.
---
-count:false
+
+
 - Abschlussfeier.
---
-count:false
+
+
 - Projektabschlusssitzungen mit dem Kernteam.
---
-count:false
+
+
 - <b>Nachkalkulation</b> und Analyse der Projektkosten.
---
-count:false
+
+
 - Systematische Auswertung aller Projektdokumente, sodass Mitarbeiter ohne "Insiderwissen" darauf zugreifen können.
---
-count:false
+
+
 - Bewertung des Projekts und ggf. auch der Projektmitarbeiter.
---
-count:false
+
+
 - Formale Auflösung der Projektorganisation.
---
-count:false
+
+
 - Auflösung des Projektbüros
 
 ---
@@ -2242,28 +2202,28 @@ count:false
 
 <b>Projektauswertung:</b>:
 - Projektauswertung zählt als das letzte Review
---
-count:false
+
+
 - Inwiefern wurden Projektziele erreicht?
---
-count:false
+
+
 - Die zu erhebenen Daten beziehen sich sowohl auf die Beziehungs- als auch auf die Sachebene
---
-count:false
+
+
 - Beziehungsebene: Wichtige Stakeholder werden mit Hilfe von Fragebögen gebeten ihre Einschätzungen zum Projekt abzugeben
---
-count:false
+
+
 - Sachebene: Realisierung der operativen Projektziele hinsichtlich Kosten, Zeit, Leistungsumfang und Qualität werden ermittelt
 
 ---
 
 <b>Projektnachkalkulation</b>
 - Letzter Soll-Ist-Vergleich
---
-count:false
+
+
 - Dient der genaueren Kostenabschätzung für zukünftige Projekte.
---
-count:false
+
+
 - Pro Arbeitspaket sind folgende Informationen interessant:
   - Kostenplan (Budget)
   - Mehrleistung
@@ -2276,23 +2236,23 @@ count:false
 <b>Abschlussbericht</b>  
 Der Abschlussbericht gehört zur Projektdokumentation und dient für den Auftragnehmer dazu die Erfahrungen für Folgeprojekte zu sichern.  
 Man kann den Abschlussbericht in folgende Punkte unterteilen:
---
-count:false
+
+
 1. Ausgangssituation des Projekts
---
-count:false
+
+
 2. Analyse des Projektmanagements
---
-count:false
+
+
 3. Analyse der Projektergebnisse
---
-count:false
+
+
 4. Gesamtbeurteilung
---
-count:false
+
+
 5. Erkenntnisse und Konsequenzen für die Zukunft
---
-count:false
+
+
 6. Bei Bedarf: Hintergrundinformationen im Anhang
 
 ---
@@ -2312,19 +2272,19 @@ Folgende Punkte wurden von einzelnen Crewmitgliedern analysiert und vorbereitet:
 Es erfolgt eine Kostenanalyse. 
 - Wurde der Törn im vorhergesehenen Rahmen beendet?
   - Grundlagen dafür: Der Projektcharter und die Kostenabrechnung mit der Nachkalkulation
---
-count:false
+
+
 - Liegen Abweichungen vor?
   - Wenn ja: Welche Ursachen hatten diese und was kann in Zukunft besser gemacht werden?
---
-count:false
+
+
 - Weitere Dokumente die als Basis für die Auswertung dienen:
    - Erwartungen der Crewmitglieder
    - Prioritäten und Regeln für den Ablauf
    - Qualitätsplan
 
---
-count:false
+
+
 
 ##  
 
@@ -2620,32 +2580,32 @@ class:middle,center
 
 - Milestones
 
---
-count:false
+
+
 - Benutzerkontrollierte Terminplanung
 
---
-count:false
+
+
 - Zeitleiste
 
---
-count:false
+
+
 - Team planner view: zeigt Ressourcen und Überstunden um Probleme zu finden
 
---
-count:false
+
+
 - Berichte: inkl. grafische Möglichkeiten
 
---
-count:false
+
+
 - Ressource Management
 
---
-count:false
+
+
 - Rückwärtskompatibilität mit älteren MS Project Versionen
 
---
-count:false
+
+
 - “Earned Value Analytics”
 
 ---
